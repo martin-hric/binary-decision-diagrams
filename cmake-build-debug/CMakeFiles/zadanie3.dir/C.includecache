@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Desktop/FIIT/FIIT 2.semester/DSA/zadanie3/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+
